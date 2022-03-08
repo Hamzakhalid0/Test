@@ -1,2 +1,2 @@
-This is hamza
-There is a merge conflict
+This is ali
+There is no merge conflict
