@@ -1,1 +1,2 @@
-file 4
+This is hamza
+There is a merge conflict
