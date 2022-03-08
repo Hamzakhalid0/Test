@@ -1,3 +1,4 @@
 # Test
 This is a test repository.
-this is my first commit
+This is my first commit.
+There is a conflict.
